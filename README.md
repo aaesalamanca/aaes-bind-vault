@@ -4,5 +4,5 @@ El repositorio contiene, en este `README.md`, una tabla que enumera la mayoría 
 
 | Acción                          | Visual Studio Code | Xcode                          | Rider | Visual Studio |
 | ------------------------------- | ------------------ | ------------------------------ | ----- | ------------- |
-| Run Playground                  | NA                 | `command` + `shift` + `return` | NA    | NA            |
-| Format File with 'swift-format' | NA                 | `control` + `shift` + `I`      | NA    | NA            |
+| Run Playground                  | N/A                | `command` + `shift` + `return` | N/A   | N/A           |
+| Format File with 'swift-format' | N/A                | `control` + `shift` + `I`      | N/A   | N/A           |
